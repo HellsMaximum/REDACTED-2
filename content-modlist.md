@@ -107,6 +107,8 @@ This is a list of all the mods in this modpack and what rough category they fit 
 - https://www.curseforge.com/minecraft/mc-mods/oculus
     - Shader loader
     - Probably don't put on server
+- https://www.curseforge.com/minecraft/mc-mods/entityculling
+    - Client side removes entitys that are not being looked at 
 
 - dynamic lights using embeddium?
     - https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
@@ -115,6 +117,22 @@ This is a list of all the mods in this modpack and what rough category they fit 
     - if shaders are weird with create?
     - Probably don't put on server
 
+- https://www.curseforge.com/minecraft/mc-mods/fix-gpu-memory-leak
+    - Memory leak fix
 
-Starlight 
-Yeetus Experimentus
+- https://www.curseforge.com/minecraft/mc-mods/what-are-they-up-to
+    - Mod that adds some idle animations
+
+-KleeSlabs
+-Bad Wither No Cookie
+-Advancement Plaques
+-Item Highlighter
+-Dynamic FPS
+    -https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
+-Color Hearts
+    -https://www.curseforge.com/minecraft/mc-mods/colorful-hearts
+-Inventory Storer
+    -https://www.curseforge.com/minecraft/mc-mods/inventory-sorter
+
+-Global Datapacks if needed in the end
+    -https://www.curseforge.com/minecraft/mc-mods/globalpacks
