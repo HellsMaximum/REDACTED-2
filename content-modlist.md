@@ -86,3 +86,35 @@ This is a list of all the mods in this modpack and what rough category they fit 
     - maybe some sort of hybrid future magic tech
 - Customize gun mod recipes
     - remove them almost entirly and make it so you have to buy most guns and it is really hard to craft the others
+
+
+# Things found on Laptop/links
+- https://www.curseforge.com/minecraft/mc-mods/embeddium
+    - Sodium but on forge
+- https://www.curseforge.com/minecraft/mc-mods/fastworkbench
+    - removes recipe book so faster load times on boot?
+    - maybe https://www.curseforge.com/minecraft/mc-mods/fastsuite
+- https://www.curseforge.com/minecraft/mc-mods/modernfix
+    - Lots of customization to look through
+    - Dev reccomends the following mods
+        - https://www.curseforge.com/minecraft/mc-mods/starlight-forge
+            - Lighting engine rework, might break dynamic lights?
+            - Run only on server maybe?
+        - https://www.curseforge.com/minecraft/mc-mods/yeetusexperimentus
+            - Gets rid of experimental feature screen on boot
+- https://www.curseforge.com/minecraft/mc-mods/let-me-despawn
+    - Mob's can despawn when they are holding items
+- https://www.curseforge.com/minecraft/mc-mods/oculus
+    - Shader loader
+    - Probably don't put on server
+
+- dynamic lights using embeddium?
+    - https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged
+
+- https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat
+    - if shaders are weird with create?
+    - Probably don't put on server
+
+
+Starlight 
+Yeetus Experimentus
